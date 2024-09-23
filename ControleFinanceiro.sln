@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleFinanceiro.Server", "ControleFinanceiro.Server\ControleFinanceiro.Server.csproj", "{953C6EF6-2444-47A2-9446-C56873BE285C}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "controlefinanceiro.client", "controlefinanceiro.client\controlefinanceiro.client.esproj", "{B2E2DA19-8D9F-42E9-8003-4E94D2B94E25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{953C6EF6-2444-47A2-9446-C56873BE285C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{953C6EF6-2444-47A2-9446-C56873BE285C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{953C6EF6-2444-47A2-9446-C56873BE285C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{953C6EF6-2444-47A2-9446-C56873BE285C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2E2DA19-8D9F-42E9-8003-4E94D2B94E25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2E2DA19-8D9F-42E9-8003-4E94D2B94E25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2E2DA19-8D9F-42E9-8003-4E94D2B94E25}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B2E2DA19-8D9F-42E9-8003-4E94D2B94E25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2E2DA19-8D9F-42E9-8003-4E94D2B94E25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2E2DA19-8D9F-42E9-8003-4E94D2B94E25}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96509F8E-55C6-49BA-8CE3-96416CD30B82}
+	EndGlobalSection
+EndGlobal
